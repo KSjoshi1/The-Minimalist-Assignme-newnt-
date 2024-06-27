@@ -1,0 +1,202 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+@media screen and (min-width: 768px) {
+  .bg-container {
+    background-image: url("../assets/images/banner.png");
+    width: 1512px;
+    height: 1090px;
+    top: -791px;
+    left: 171px;
+    gap: 0px;
+    opacity: 0px;
+  }
+}
+
+.to-container {
+  width: 1586px;
+  height: 1586px;
+  left: -43px;
+}
+
+.bg-container {
+  width: 1440px;
+  height: 527px;
+  left: -84px;
+  bleed: Multiply;
+  background-image: url("../assets/images/banner.png");
+}
+
+.heading {
+  font-family: "Caveat";
+  width: 116.02px;
+  height: 47.23px;
+  left: -0.1px;
+  color: #fe0000;
+}
+.heading-1 {
+  font-family: "Roboto";
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 56px;
+  color: #ffffff;
+}
+.button {
+  width: fixed 211px;
+  height: fixed 52px;
+  top: 401px;
+  gap: 4px;
+  color: #ffffff;
+}
+.Top-1 {
+  width: 87px;
+  height: 44px;
+  top: 63px;
+  left: 13px;
+}
+
+.hh-1 {
+  width: Hug 7.97px;
+  height: Hug 472.31px;
+  top: 628.07px;
+  left: 120px;
+  padding: 2px;
+  gap: 2px;
+  color: #f27121;
+}
+.heading-3 {
+  font-family: "Roboto";
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 44px;
+  align-items: center;
+  color: #f27121;
+}
+
+.hh-2 {
+  width: Hug 7.97px;
+  height: Hug 472.31px;
+  top: 628.97px;
+  left: 849px;
+  padding: 2px;
+  gap: 2px;
+  motion-rotation: 90;
+  color: #f27121;
+}
+.p-1 {
+  width: 908px;
+  height: 139px;
+  top: 680px;
+  left: 266px;
+}
+
+.description-1 {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  align-items: center;
+  color: #000000;
+}
+.description-2 {
+  font-size: 20px;
+  font-family: "Roboto";
+  font-weight: 600px;
+  line-height: 40px;
+  align-items: center;
+  color: #000000;
+}
+.card-background-container {
+  width: 560px;
+  height: 434px;
+  top: 12px;
+  left: 12px;
+}
+
+.card {
+  width: 584px;
+  height: 530px;
+  top: 953px;
+  left: 120px;
+  border: 1px;
+  color: #cecece;
+}
+.bg-image-1 {
+  background-image: url("../assets/images/ime2.jpg");
+}
+.bg-image-2 {
+  background-image: url("../assets/images/ime2.jpg");
+}
+.card-heading-1 {
+  font-family: "Roboto";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.card-heading {
+  font-family: "Roboto";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.custom-button-1 {
+  width: Fixed 211px;
+  height: Fixed 52px;
+  top: 466px;
+  left: 361px;
+  gap: 4px;
+  color: #fe0000;
+}
+
+.hh-4 {
+  width: Hug 7.97px;
+  height: fixed 1, 200px;
+  top: 1554px;
+  left: 120px;
+  padding: 2px;
+  gap: 2px;
+  color: #f27121;
+}
+
+.body-container {
+  width: 1441px;
+  height: 118px;
+  top: 1643px;
+  left: -1px;
+}
+.card-1 {
+  width: 1441px;
+  height: 104px;
+  top: 7px;
+  background-color: #25a769;
+}
+.body-0 {
+  width: 1441px;
+  height: 7.29px;
+}
+
+.body-01 {
+  width: Hug 260px;
+  height: Hug 36px;
+  top: 56px;
+  left: 591px;
+  gap: 20px;
+}
+
+.log-1 {
+  width: 36px;
+  height: 36px;
+}
+.log-2 {
+  width: 36px;
+  height: 36px;
+}
