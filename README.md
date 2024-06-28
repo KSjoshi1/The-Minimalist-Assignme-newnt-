@@ -1,3 +1,7 @@
+# The Minimalist
+#  Assignment 
+ ## Junior Front End Developer 
+ 
 #  Project
 
 ## Observations
