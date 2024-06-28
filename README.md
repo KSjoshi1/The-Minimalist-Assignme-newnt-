@@ -1,8 +1,7 @@
-# Cat & Light Project
+#  Project
 
 ## Observations
 
-- Switch status changes
-- Bulb goes On and Off
-- Cat become Visible and Invisible
-- Switch (button) background color Changes
+- HTML, CSS, JavaScript
+
+-  react.js, 
